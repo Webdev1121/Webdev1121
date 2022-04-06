@@ -20,7 +20,7 @@ Warnet-Simulator-Updater : https://github.com/Webdev1121/Warnet-Simulator-Update
 
 # **Report bug / Saran**
 
-Report bug via :
+Report bug / Saran via :
 
 Discord : 1121Developer#3978
 
