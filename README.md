@@ -30,3 +30,4 @@ E-Mail : Scoobydeveloper129@gmail.com
 
 [![WebDev1121's GitHub stats](https://github-readme-stats.vercel.app/api?username=webdev1121)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Language](https://github-readme-stats.vercel.app/api/top-langs/?username=webdev1121)](https://github.com/anuraghazra/github-readme-stats)
+(Bahasa C Dan Perl = cURL file XD)
