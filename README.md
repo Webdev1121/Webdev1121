@@ -4,7 +4,7 @@
 
 umur : 10 thn
 
-kelas : 5 sd
+kelas : 6 sd
 
 game kesukaan : warnet simulator, robbery bob,minecraft
 
