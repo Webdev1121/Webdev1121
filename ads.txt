@@ -1,1 +1,4 @@
+User-agent: Googlebot
+Allow: /ads.txt
+
 google.com, pub-8028925533062046, DIRECT, f08c47fec0942fa0
