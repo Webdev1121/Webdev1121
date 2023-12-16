@@ -1,6 +1,6 @@
 # A place where Siji Siji Loro Studio born.
 
-[💻] A man that always doing "DUMB" stuff
+### [💻] A man that always doing "DUMB" stuff
 
 E-Mail : atmin@fbp.my.id
 
